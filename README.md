@@ -6,13 +6,14 @@ Colab: --
 
 ## Таблица с данными аннотированных генов
 
-|Organism name|Count annotated gene|Len annotated gene|Percent annotate gene|
-|---|---|---|---|
-|pandoraea\_pulmonicola|5096|5059470|86\.2|
-|pandoraea\_fibrosis|4948|4880008|87\.3|
-|pandoraea\_pnomenusa|4861|4699366|87\.3|
-|pandoraea\_thiooxydans|4159|4005666|89\.7|
-|pandoraea\_norimbergensis|5450|5435524|88\.1|
+| Organism name            |   Count annotated gene |   Len annotated gene |   Percent annotate gene |   Count Z-DNA region(without filters) |   Count Z-DNA region(with filters) |   Summary len Z-DNA region |
+|:-------------------------|-----------------------:|---------------------:|------------------------:|--------------------------------------:|-----------------------------------:|---------------------------:|
+| pandoraea_pulmonicola    |                   5096 |              5059470 |                      86 |                               5867621 |                             139526 |                    1390316 |
+| pandoraea_fibrosis       |                   4948 |              4880008 |                      87 |                               5592065 |                             107771 |                    1069498 |
+| pandoraea_pnomenusa      |                   4861 |              4699366 |                      87 |                               4464186 |                              91938 |                     901202 |
+| pandoraea_thiooxydans    |                   4159 |              4005666 |                      90 |                               6167370 |                             128001 |                    1276230 |
+| pandoraea_norimbergensis |                   5450 |              5435524 |                      88 |                               5385946 |                             135598 |                    1352122 |
+
 
 ## Гистограммы распредления ZH-Score
 
