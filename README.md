@@ -29,19 +29,19 @@ Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfE
 ## Предсказанные Z-DNA:
 
 <p float="left">
-  <img src="/pic/zdna1.png" width="700" />
+  <img src="/img/zdna1.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna2.png" width="700" />
+  <img src="/img/zdna2.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna3.png" width="700" />
+  <img src="/img/zdna3.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna4.png" width="700" />
+  <img src="/img/zdna4.png" width="700" />
 </p>
 <p float="left">
-  <img src="/pic/zdna5.png" width="700" />
+  <img src="/img/zdna5.png" width="700" />
 </p>
 
 ## Гомологичные связи между белками выбранных геномов (создание кластеров)
