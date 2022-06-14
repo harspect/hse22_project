@@ -26,7 +26,7 @@ Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfE
   <img src="/img/hist5.png" width="410" />
 </p>
 
-## Предсказанные Z-DNA:
+## Предсказанные Z-DNA
 
 <p float="left">
   <img src="/img/zdna1.png" width="700" />
@@ -65,7 +65,7 @@ Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfE
 |  9 |       5 |         30654.9 |
 |  10 |       5 |         29432.3 |
 
-## Кластеры:
+## Кластеры
 
 <p float="left">
   <img src="/img/zdn1.png" width="700" />
@@ -98,7 +98,7 @@ Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfE
   <img src="/img/zdn10.png" width="700" />
 </p>
 
-## Выравнивания:
+## Выравнивания
 ```
-ссылка
+https://github.com/harspect/hse22_project/tree/main/aligns
 ```
