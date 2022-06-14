@@ -3,11 +3,11 @@
 
 Выбраны геномы из рода: Pandoraea
 
-Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfEmmpqpC_9Dp3NqzU)
+Google Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfEmmpqpC_9Dp3NqzU)
 
 ## Таблица с данными аннотированных генов
 
-| Organism name            |   Count annotated gene |   Len annotated gene |   Percent annotate gene |   Count Z-DNA (without filters) |   Count Z-DNA (with filters) |   Summary len Z-DNA |
+| Название генома           |   Кол-во аннотированных генов |   Длина аннотированных генов |   Доля аннотированных генов |   Кол-во Z-DNA |   Кол-во Z-DNA zh-score > 500 |   Суммарная длина Z-DNA |
 |:-------------------------|-----------------------:|---------------------:|------------------------:|--------------------------------------:|-----------------------------------:|---------------------------:|
 | pandoraea_pulmonicola    |                   5096 |              5059470 |                      86% |                               5867621 |                             139526 |                    1390316 |
 | pandoraea_fibrosis       |                   4948 |              4880008 |                      87% |                               5592065 |                             107771 |                    1069498 |
@@ -26,6 +26,7 @@ Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfE
   <img src="/img/hist5.png" width="410" />
 </p>
 
+
 ## Предсказанные Z-DNA
 
 <p float="left">
@@ -43,6 +44,16 @@ Colab: [Ссылка](https://colab.research.google.com/drive/1F-z_9JhPYJXms6BfE
 <p float="left">
   <img src="/img/zdna5.png" width="700" />
 </p>
+
+## Статистика распределения Z_DNA
+
+| Название геномов                 |   promoter |   gene |   non-gene |
+|:-------------------------|-----------:|-------:|-----------:|
+| pandoraea_fibrosis       |       24.1% |   75.9% |          0% |
+| pandoraea_thiooxydans    |       24.9% |   75.1% |          0% |
+| pandoraea_pulmonicola    |       25.1% |   74.9% |          0% |
+| pandoraea_norimbergensis |       24%   |   76%   |          0% |
+| pandoraea_pnomenusa      |       26.9% |   73.1% |          0% |
 
 ## Гомологичные связи между белками выбранных геномов (создание кластеров)
 
